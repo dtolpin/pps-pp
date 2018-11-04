@@ -1,4 +1,4 @@
-// Gaussian mixture
+// Determining the best bandwidth for page-per-visit prediction
 package model
 
 import (
