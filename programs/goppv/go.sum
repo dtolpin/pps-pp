@@ -2,5 +2,7 @@ bitbucket.org/dtolpin/infergo v0.0.0-20181104094649-9d738891098a h1:Y2SAqCFIkYM9
 bitbucket.org/dtolpin/infergo v0.0.0-20181104094649-9d738891098a/go.mod h1:a/90rdT2kjLQphnFKa0Oram31JGXlj4i8avtKe0nPUY=
 bitbucket.org/dtolpin/infergo v0.0.0-20181104120021-a5ffe2334ede h1:/YQwEZ1aV/3ez1IjcoCaGrmolZV59Nj7V2WUmJfgxFA=
 bitbucket.org/dtolpin/infergo v0.0.0-20181104120021-a5ffe2334ede/go.mod h1:a/90rdT2kjLQphnFKa0Oram31JGXlj4i8avtKe0nPUY=
+bitbucket.org/dtolpin/infergo v0.0.0-20181104132049-1fe3e0d67e6a h1:hs9Wz5xshGz7n76zPoSprhPTH4D1yTZnkikjI2D5y/U=
+bitbucket.org/dtolpin/infergo v0.0.0-20181104132049-1fe3e0d67e6a/go.mod h1:a/90rdT2kjLQphnFKa0Oram31JGXlj4i8avtKe0nPUY=
 golang.org/x/tools v0.0.0-20181102223251-96e9e165b75e h1:mWs/o39kL0UjStxJimqI7o6rKvqDZcAQxqnwG6lmxfc=
 golang.org/x/tools v0.0.0-20181102223251-96e9e165b75e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
